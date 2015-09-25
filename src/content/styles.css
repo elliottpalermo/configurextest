@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+}
+
+.welcome {
+    color: navy;
+    text-align: center;
+    font-weight: bold;
+}
+
+.fibonacci-box {
+    top: 400px;
+    text-align: center;
+}
+
+.fibonacci-input {
+    margin-left:1em;
+}
+
+.answer-box {
+    top: 400px;
+    text-align: center;
+}

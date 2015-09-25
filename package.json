@@ -1,0 +1,10 @@
+{
+  "name": "configurextest",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Solution for configurex",
+  "devDependencies": {
+    "express": "4.13.3",
+    "body-parser": "^1.8.1"
+  }
+}
